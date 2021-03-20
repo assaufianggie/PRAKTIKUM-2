@@ -10,7 +10,7 @@
 <body>
                
   <div class="container">    
-    <form class="form-horizontal p-5 shadow" style="background-color:#F7DCB4;" method="GET" action="array_siswa.php">
+    <form class="form-horizontal p-5 shadow" style="background-color:#F7DCB4;" method="GET" action="nilai_siswa.php">
 
       <div class="text-center">
         <h3 class="mb-5 text-mg" style="color:#C35817;">Form Nilai Siswa</h3>
